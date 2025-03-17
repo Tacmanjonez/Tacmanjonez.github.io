@@ -13,4 +13,4 @@ project.
 
 Security Audit:
 
-{google_docs}<iframe src="https://docs.google.com/document/d/e/2PACX-1vSXfllcdrSYP_xKsJm-3TlBIfWulb-cXEXUkkazj-EG-Nw77sU737OVgGSFDv5QK0BbRXJN299QMOSB/pub?embedded=true"></iframe>{/google_docs}
+{google_docs}"https://docs.google.com/document/d/e/2PACX-1vSXfllcdrSYP_xKsJm-3TlBIfWulb-cXEXUkkazj-EG-Nw77sU737OVgGSFDv5QK0BbRXJN299QMOSB/pub?embedded=true"></iframe>{/google_docs}
