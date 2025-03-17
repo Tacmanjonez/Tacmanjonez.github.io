@@ -1,5 +1,7 @@
 # Projects
 
+I’m passionate about ethical hacking and protecting systems from cyber threats while staying within legal boundaries. With strong problem-solving skills and expertise in network security, penetration testing, and risk assessment, I’m eager to help organizations stay secure. I’m committed to continuous learning and adapting security protocols to meet emerging threats
+
 A Project Introduction: Two to three sentences that state the
 problem you solved, the data used for the project, and your
 modeling results.
